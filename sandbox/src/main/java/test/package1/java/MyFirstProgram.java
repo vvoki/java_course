@@ -1,3 +1,5 @@
+package test.package1.java;
+
 public class MyFirstProgram {
 
 	public static void main (String[] args) {
